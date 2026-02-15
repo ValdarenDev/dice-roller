@@ -1,0 +1,23 @@
+body {
+    font-family: Arial;
+    width: 300px;
+    height: 300px;
+    margin: 40px auto;
+    padding: 50px;
+    text-align: center;
+    background-color: antiquewhite;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+
+.row {
+    margin: 10px 0;
+    display: flex;
+    justify-content: space-between;
+}
+
+input {
+    width: 60px;
+    text-align: right;
+    font-size: 18px;
+}
